@@ -1,0 +1,5 @@
+Conclusions:
+1. Simple conditional statements can be effectively used for sorting, so even with the limitations on complexity, logical operators can be applied to achieve a goal. This task somehow trains logic and finding simpler solutions—my initial call was either to write a simple script without if using the list.sort function or to use a more complex if-else structure, which was actually unnecessary.
+2. The task shows how loops and conditionals can be used for analyzing lists. Counting data types in the list can be useful for some data validation or analysis, and also in finding some errors in data by highlighting unexpected data types.
+
+All in all, this assignment is much more interesting for me because of the solving specific problems with given constraints, rather than inventing code on your own.
